@@ -32,7 +32,7 @@ The project uses a simulated environment — *Crystal Bank Company* — to ident
 
 ## 📄 Full Report
 You can view or download the full coursework PDF here:  
-👉 [LouiseNamugayi_RiskManagementCoursework.pdf](./LouiseNamugayi_RiskManagementCoursework.pdf)
+👉 https://github.com/Louisena/Cybersecurity-Portfolio/blob/main/Risk-Management/Risk-Management/Coursework-Risk-Assessment/Louise%20Namugayi-%20Risk%20Management%20Coursework.pdf
 
 ---
 
