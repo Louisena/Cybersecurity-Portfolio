@@ -34,4 +34,4 @@ The exercise was completed using a provided university template and includes:
 
 ## 📄 Full Report
 You can view or download the full coursework here:  
-👉 [LouiseNamugayi_RiskManagementCoursework.pdf](./LouiseNamugayi_RiskManagementCoursework.pdf)
+👉 https://github.com/Louisena/Cybersecurity-Portfolio/blob/main/Risk-Management/Coursework-Risk-Assessment/Louise%20Namugayi-%20Risk%20Management%20Coursework.pdf
